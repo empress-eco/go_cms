@@ -1,44 +1,63 @@
-## Go1 CMS
+<div align="center">
+  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Go1 CMS Logo"/>
+  <h1 align="center">Go1 CMS: Unleashing Your Website Development Potential</h1>
+  <p>
+    Empower your website development and content-editing journey with no coding skills necessary.
+    <br />
+    <a href="https://grow.empress.eco/">Explore the Docs</a>
+    ·
+    <a href="https://github.com/empress-eco/go_cms/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/empress-eco/go_cms/issues">Request Feature</a>
+  </p>
+</div>
 
-Go1 CMS - Its a Advanced Content Management System built on top of Frappe with Advanced Page builder. Lead your business towards the future of website development and content-editing without any developer support.
+## About The Project
 
-This advanced open source app encourages both editors and designers to create websites with zero creative limitations and zero coding knowledge.
+### Overview
+Go1 CMS is an advanced, open-source content management system designed to empower individuals, developers, and enterprises to create innovative and engaging websites with creative freedom and without any coding knowledge.
 
-#### CREATING WEBSITES INTO GROWTH ENGINES
-* Get a quick blueprint of Go1 CMS page builder: Experience our interactive design tool
+### Key Features
+- Interactive design tool for a hands-on experience
+- Code-free website builder using Empress, Ionic, and Angular technologies
+- Advanced and customizable Page Builder Interface
+- Pre-set beautiful templates for ease of use
+- Easy drag-and-drop positioning of UI block elements
+- SEO-friendly features for optimal online visibility
+- Custom plugin options and marketing integrations
 
-* Powerful code-free website builder built using Frappe, Ionic, and Angular technologies.
+## Technical Stack and Setup Instructions
 
-* Advanced, customizable Page Builder Interface with existing CMS Market standards.
+Go1 CMS is built using cutting-edge technologies such as Empress, Ionic, and Angular for a seamless user experience.
 
-* Pre-defined, multiple beautiful Templates to build or re-use section and component slices.
+### Prerequisites
+A modern web browser and an internet connection are all you need to get started with Go1 CMS.
 
-* Easy drag-and-drop like positioning of UI block elements forming unique page layouts.
+### Installation
+To install Go1 CMS, follow these simple steps:
 
-* Form, blog, content segmentation and header footer with heaps of detailed doc types.
+1. Clone the repository using the following command:
+```sh
+git clone https://github.com/empress-eco/go_cms.git
+```
+2. Follow the instructions provided in the documentation to complete the installation.
 
-* Follow the latest trends to sparkle creativity with flexible font styles and color elements.
+## Usage
+To use Go1 CMS, log in to your account, select a template, and start building your website. You can drag and drop UI elements, customize SEO parameters, and integrate marketing plugins as per your needs.
 
-* Create and assemble compelling contents for engaging pages.
+## Contribution Guidelines
+We welcome contributions from the community. Here's how you can contribute:
 
-* Easy-to-manage and well-optimized SEO parameters.
+1. Fork the project from [here](https://github.com/empress-eco/go_cms).
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
 
-* Custom plugin options and other marketing integrations available.
+## License and Acknowledgements
 
-Go1 CMS is proudly part of the Frappe family, born to support many Frappe Community members, developers, Enterprises with our highly versatile builder platform, giving creative wings to fly globally online.
+### License
+This project is licensed under the MIT License. Your contributions will also be licensed under the MIT License.
 
-#### GO1 CMS Screens
-![image](https://user-images.githubusercontent.com/54178464/191701378-7285350b-dece-4634-ac42-d0cb772eed1b.png)
-
-* Page Builder
-
-* Page Template
-
-* Section Templates
-
-* Page Sections
-
-* Header Templates
-
-* Footer Templates
-
+### Acknowledgements
+We would like to express our gratitude to the Empress Community for their support and contributions to Go1 CMS. Their innovation and dedication have been instrumental in building the foundations and functionalities we rely on.
